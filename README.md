@@ -2,7 +2,7 @@
 
 ## How We Work
 
-- At Tandem, you're still responsible for every line of code you write. AI usage is expected, but be prepared to defend a variable name or a DB migration.
+- At Tandem, you're responsible for every line of code you write. AI usage is expected, but be prepared to defend a variable name or a DB migration.
 - Each project has a Project Lead (PL). If you don't know who this is, ask.
 - Innovate! We're always open to new workflows and stuff. Everything is changing so quickly at the moment and we want to find cool ways to use AI while keeping control of the code.
 
