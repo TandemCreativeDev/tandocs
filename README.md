@@ -10,7 +10,7 @@
 
 ### Branch Names & Commits
 
-- Conventional commits [pls](https://www.conventionalcommits.org/en/v1.0.0/)
+- Conventional commits and branch naming conventions [pls](https://www.conventionalcommits.org/en/v1.0.0/)
 - Use the number of the Jira ticket or GitHub Issue you're working on to name your branch, combined with a short description e.g. `feat/tozn-010-change-user-avatar-background`
 
 ### Pull Requests
