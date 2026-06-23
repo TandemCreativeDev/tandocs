@@ -31,8 +31,8 @@
 - When Branch X is merged into the working branch, you can then merge that branch into Branch Y, and your PR will not include all the changes from Branch X.
 
 > [!IMPORTANT]
-> If you push Branch Y and make a PR before Branch X gets merged, that PR will show the changes from both X and Y. To remedy this, rebase onto main with the following command while in Branch X:
+> If you push Branch Y and make a PR before Branch X gets merged, that PR will show the changes from both X and Y. To remedy this, rebase onto the working branch with the following command while in Branch Y:
 >
 > ```bash
-> git rebase main
+> git rebase <workingbranch>
 > ```
