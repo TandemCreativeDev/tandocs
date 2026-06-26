@@ -73,7 +73,7 @@ This Article governs the most frequent source of disagreement among the Parties.
 
 ---
 
-## ARTICLE IV — THE DOCTRINE OF `perf`
+## ARTICLE IV — THE DOCTRINE OF `perf` [\[A\]](#appendix-a--on-the-false-friend-performance)
 
 **4.1 — Measurement Requirement.** A commit shall not be classified as `perf` in the absence of measurement. The Author shall, in the body of the commit, cite at least one of:
 
@@ -202,3 +202,13 @@ Vibes, intuition, and _"this should be faster"_ shall not suffice. The phrase "I
 _Executed in perpetuity by the engineers of Tandem._
 
 _This document supersedes all prior agreements, vibes, and watercooler consensus on the matter of commit classification._
+
+---
+
+## APPENDIX A — ON THE FALSE FRIEND "PERFORMANCE"
+
+*\* Re: Article IV.* For the avoidance of all doubt, `perf` is reserved exclusively for changes affecting the *computational efficiency* of the software — that is, the speed of execution, the memory or CPU consumed, the bytes transferred over the wire, the size of the artifact shipped, or the latency observed by a user or downstream system.
+
+`perf` is **not** a synonym for *"this feature now performs its job better"* in the colloquial sense. A change that causes a shield to bounce 75% of harmful attacks where previously it bounced only 50% is `fix` (if 50% was a bug) or `feat` (if 75% is a new capability), and shall not, under any circumstances, be classified as `perf` on the basis that the feature's "performance" has improved.
+
+The word "performance" is hereby deemed a false friend. The Author shall mentally translate it to "speed/efficiency" before invoking Article IV. If the translation does not survive, the commit is not `perf`.
