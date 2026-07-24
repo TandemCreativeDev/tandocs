@@ -1,17 +1,12 @@
 # Billing
 
-## How Invoicing Works
-
-- Clients are invoiced on the **last Friday of each month**.
-- We only invoice for hours that appear on a **submitted timesheet**. Hours worked but not logged do not get billed, and therefore do not get paid.
-
 ## Timesheets
 
-- Devs submit timesheets **every 2 weeks**. Fortnightly cadence keeps the month-end invoice accurate without a mad scramble on the last Friday.
+- Devs submit timesheets **every 2 weeks**, on the same fortnightly cadence as client invoices.
 - Log hours against the project you were working on. If you're not sure which project a piece of work belongs to, ask your Project Lead before submitting.
-- Submit on time. A timesheet that lands after the invoice has gone out rolls into the following month — which means you get paid for that work a month later than you otherwise would have.
 
-## In Short
+## Dev Invoices (Dev → Tandem)
 
-- Work → timesheet (every 2 weeks) → invoice (last Friday of the month) → payment.
-- No timesheet, no invoice line, no payment. Don't lose hours to admin.
+- Devs invoice Tandem on the **last Friday of every month**.
+- Only include hours that are already on a submitted timesheet. Anything worked after your most recent timesheet rolls into next month's invoice.
+- Example: if your last timesheet of July goes out on the 24th, hours from the 27th–31st are not on this month's invoice — they'll appear on the next one.

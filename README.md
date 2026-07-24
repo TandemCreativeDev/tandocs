@@ -25,6 +25,10 @@
 - Make sure to request a review from your Project Lead and any other relevant parties on your PR.
 - If changes are requested, make sure to re-request a review after making them.
 
+### Billing
+
+- [Here](./billing.md)
+
 ### Documentation
 
 - Each project has `ai-docs/` in the `.gitignore`. This is where you can put your own documentation to feed coding assistants without polluting the rest of the team's docs.
