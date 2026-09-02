@@ -11,4 +11,4 @@
 - Devs invoice Tandem on the **last Friday of every month**.
 - Only include hours that are already on a submitted timesheet. Anything worked after your most recent timesheet rolls into next month's invoice.
 - As with timesheets, round your hours to the nearest 0.25.
-- Example: if your last timesheet of July goes out on the 24th, hours from the 27th–31st are not on this month's invoice — they'll appear on the next one.
+- Example: if your last timesheet of July goes out on the Friday 24th, hours from the 25th–31st are not on this month's invoice — they'll appear on the next one.
